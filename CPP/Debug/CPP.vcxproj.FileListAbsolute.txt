@@ -1,0 +1,2 @@
+D:\Coding\CodeSandbox\CPP\Debug\CPP.exe
+D:\Coding\CodeSandbox\CPP\Debug\CPP.pdb
