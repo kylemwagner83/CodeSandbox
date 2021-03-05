@@ -6,7 +6,11 @@ namespace CS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] myIntArray;
+            myIntArray = new int[6];
+
+            int[] myIntArray2 = new int[6] {1,2,3,4,5,6};
+
         }
     }
 }
